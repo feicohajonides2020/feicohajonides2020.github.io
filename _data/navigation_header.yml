@@ -1,0 +1,21 @@
+# Navbar left menu navigation links
+left:
+    - title: Home
+      url: /
+
+    - title: Visie
+      url: /about/
+
+    - title: Exposities
+      url: /exposities/
+
+# Navbar right menu navigation links
+right:
+    - title: Lessen
+      url: /lessen/
+
+    - title: Opleiding
+      url: /opleiding/
+
+    - title: Contact
+      url: /contact/
