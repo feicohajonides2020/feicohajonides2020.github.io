@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Feico Hajonides
-description:        Website van beeldhouwer Feico Hajonides
+title:             Opleiding Organische Beeldhouwkunst
+description:        Website van atelier organische beeldhouwkunst
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -15,11 +15,11 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "http://feicohvdm.github.io"
+url:                "http://feicohajonides2020.github.io"
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          Beelden      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo_text:          Opleiding     # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
