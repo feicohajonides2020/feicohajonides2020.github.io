@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-De opleiding begint met een introductie jaar waarin de fundamenten van de organische beeldhouwkunst belicht wordt. In dit jaar komt aan bod:......
+De opleiding begint met een introductie jaar waarin de fundamenten van de organische beeldhouwkunst belicht wordt. In dit jaar komt aan bod ......
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="Palmzondag" %}
 
