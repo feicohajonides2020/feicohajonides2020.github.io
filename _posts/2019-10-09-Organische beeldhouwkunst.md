@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-Een beeldhouwkunst waarin de waarde van levensprocessen centraal staat wordt de organische beeldhouwkunst genoemd. Ons dagelijks leven de natuur om ons heen zit vol met processen...
+Een beeldhouwkunst waarin de waarde van levensprocessen centraal staat wordt de organische beeldhouwkunst genoemd. Ons dagelijks leven en de natuur om ons heen zit vol met processen.....
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
 
