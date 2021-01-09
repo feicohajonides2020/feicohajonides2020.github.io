@@ -11,10 +11,10 @@ left:
 
 # Navbar right menu navigation links
 right:
-    - title: Lessen
+    - title: Cursussen
       url: /lessen/
 
-    - title: Opleiding
+    - title: Docenten
       url: /opleiding/
 
     - title: Contact
