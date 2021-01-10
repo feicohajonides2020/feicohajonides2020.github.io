@@ -8,7 +8,10 @@ header:
 ---
 Een beeldhouwkunst waarin de waarden van levensprocessen centraal onderstaan, wordt de organische beeldhouwkunst genoemd. Ons dagelijks leven en de natuur om ons heen zit vol met processen.....
 
-Sla je een biologie boek open dan zou je kunnen verwachten dat dit boek het leven uit de doeken doet. Immers biologie staat letterlijk voor "logos" wat "leer" betekent en "bio" wat "leven" aanduid. In een biologie boek zou je dus een beschrijving en afbeeldingen van het leven mogen verwachten.
+Als je de behoefte voelt om deze levensprocessen eens wat nader te bestuderen dan is het een logische stap om eens een biologie boek open te slaan. Immers biologie staat letterlijk voor "logos" wat "leer" betekent en "bio" wat "leven" aanduid. Je zou dus mogen verwachten dat je in zo'n biologie boek  beschrijvingen en afbeeldingen tegen komt van en over het leven.
+Mooie foto's en tekeningen over celdeling en celbevruchting zal je tegenkomen. Maar het leven achter deze celdeling en bevruchting blijft hierachter verscholen Het leven wat deze celdeligen en bevruchting aanstuurt laat zich niet in een foto of tekening vastleggen. Het blijven wat bevroren afbelingen van een bepaald moment in een zeer dynamisch levensproces.
+
+Zou je het leven en haar processen in haar dynamiek willen ervaren, dan zal je opzoek moeten gaan naar een andere manier van verbeelden.Dan kom je al gauw op het terrein van de kunst. De organische beeldhouwkunst met name is een kunstvorm die tot taak heeft gesteld om de dynamiek van leven en de verschillende levensprocessen beleefbaar te maken. 
 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
