@@ -3,16 +3,16 @@ left:
     - title: Home
       url: /
 
-    - title: Visie
-      url: /about/
-
     - title: Exposities
       url: /exposities/
 
-# Navbar right menu navigation links
-right:
     - title: Cursussen
       url: /lessen/
+
+# Navbar right menu navigation links
+right:
+    - title: praktische info
+      url: /about/
 
     - title: Docenten
       url: /opleiding/
