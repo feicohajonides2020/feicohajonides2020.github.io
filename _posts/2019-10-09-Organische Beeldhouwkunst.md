@@ -9,9 +9,9 @@ header:
 Een beeldhouwkunst waarin de waarden van levensprocessen centraal onderstaan, wordt de organische beeldhouwkunst genoemd. Ons dagelijks leven en de natuur om ons heen zit vol met processen.....
 
 Als je de behoefte voelt om deze levensprocessen eens wat nader te bestuderen dan is het een logische stap om eens een biologie boek open te slaan. Immers biologie staat letterlijk voor "logos" wat "leer" betekent en "bio" wat "leven" aanduid. Je zou dus mogen verwachten dat je in zo'n biologie boek  beschrijvingen en afbeeldingen tegenkomt van en over de leer het leven.
-Je ziet in veel biologie boeken mooie foto's en tekeningen over celdeling en celbevruchting. Maar het leven achter deze celdeling en bevruchting blijft watch achter deze foto's en tekeningen verscholen. Het leven wat celdeligen en bevruchting aanstuurt laat zich namelijk niet in een foto of tekening vastleggen. Het blijven daardoor wat bevroren afbelingen van een bepaald vastgelegd moment in een zeer dynamisch levensproces.
+Je ziet in veel biologie boeken mooie foto's en tekeningen over celdeling en celbevruchting. Maar het leven achter deze celdeling en bevruchting blijft wat achter deze foto's en tekeningen verscholen. Het leven wat celdeligen en bevruchting aanstuurt laat zich namelijk niet in een foto of tekening vastleggen. Het blijven daardoor wat bevroren afbelingen van een bepaald vastgelegd moment in een zeer dynamisch levensproces.
 
-Zou je het leven en haar processen in haar dynamiek willen ervaren, dan zal je opzoek moeten gaan naar een andere manier van verbeelden. Dan kom je al gauw op het terrein van de kunst terrecht. De organische beeldhouwkunst met name is een kunstvorm die tot taak heeft om de dynamiek van leven en de verschillende levensprocessen beleefbaar te maken. 
+Zou je het leven en haar processen in haar dynamiek willen ervaren, dan zal je opzoek moeten gaan naar een andere manier van afbeelden. Dan kom je al gauw op het terrein van de kunst terrecht. De organische beeldhouwkunst met name is een kunstvorm die tot taak heeft om de dynamiek van leven met haar verschillende levensprocessen beleefbaar te maken. 
 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
