@@ -24,7 +24,7 @@ Volg je dit beeld met je ogen van onder naar boven, dan kan je ervaren dat de vo
 Dit beeld heeft iets plantaardigs. De onderkant is wat naar binnen gerichte. Als ingetogen zaad. Uit dit zaad komen de bladeren voort als strekking in het midden. Om tenslotte een bloem te vormen.
 Dit beeld laat een levensproces zien van ontkiemen naar groeien en tenslotte naar bloeien.
 Een dynamisch levensproces die zich uitspreekt tussen de vormen van het beeld.
-Het vraagt nogal wat van de kijker om dit beeld als levensproces te kunnen zien. Je zal namelijk de beleving van de diverse vormen van het beeld in jezelf na elkaar in beleving moeten brengen. Het beeld komt dan tot leven.
+Het vraagt nogal wat van de kijker om dit beeld als levensproces te kunnen zien. Je zal namelijk de beleving van de diverse vormen van het beeld in jezelf na elkaar in beleving moeten brengen. Pas dan kan je ervaren dat achter het verhaal van de diverse vormen leven schuil gaat. 
 
 Een levensproces kan ook circulair ervaren worden. Zoals dit beeld met de titel: "Dynamiek van Liefde "
 
