@@ -43,6 +43,7 @@ het is goud waard om de eigen scheppende bron te ontdekken vanuit de technieken 
 
 ## Boetseer oefening "Mens in gesprek"  
 
+Hieronder vind je enkele schetsjes in boetseerwas. Ze komen voort uit een boetseeroefening met als vraag om flarden boetseerwas te gebruiken om "mens in gesprek" vorm te geven.
 Klik hiervoor links of rechts van de onderstaande foto.
 
 {% include slideshow.html gallery="slideshow-2" style="wide" %}
