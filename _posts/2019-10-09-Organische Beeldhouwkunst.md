@@ -26,7 +26,7 @@ Door deze vormontwikkeling kan je als kijker de evaring krijgen dat hier een pro
 Het vraagt nogal wat van de kijker om achter dit beeld een levensproces te ervaren. Daarvoor is een dynamische manier van waarnemen noodzakelijk. Het gaat hier om vormverandering ofwel metamorfose. Een beeldhouwer die vanuit de organische beeldhouwkunst wil werken traint zichzelf om vanuit vormverandering zijn beelden te maken. Hij is opzoek naar het leven dat vorm met elkaar verbindt. In deze dynamische levensbron vindt hij zijn vormen.
 Daarmee kan hij thema's en imaginaties uitspreken die verbonden zijn met het (duurzame) leven.
 
-Het beeld op de foto hieronder laat een circulair levensproces zien. Rond een scheppend midden. De ene vorm vloeit dynamisch in de ander door. Zoals liefde de ene mens met de ander verbindt en in een scheppende beweging houdt.
+Het beeld op de foto hieronder laat een circulair levensproces zien rondom een scheppend midden. De ene vorm vloeit dynamisch in de ander door. Zoals liefde de ene mens met de ander verbindt en in een scheppende beweging houdt. Waarbij het draait om onbaatzuchtigheid.
 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
