@@ -39,6 +39,8 @@ het is goud waard om de eigen scheppende bron te ontdekken vanuit de technieken 
 
 
 
+
+
 ## Boetseer oefening "Mens in gesprek"  
 
 Klik hiervoor links of rechts van de onderstaande foto.
