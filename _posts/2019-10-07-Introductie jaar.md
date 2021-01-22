@@ -36,11 +36,3 @@ De waarde van de kunst in z'n sociale werkzaamheid!
 
 
 > Maken van kunst is niet zo moeilijk. We zijn het enkel wat verleerd omdat we vergeten om dagelijks naar de geestelijke wereld in en om ons heen te luisteren.
-
-
-
-
-## Een serie kosmogrammen
-Hieronder een serie kosmogrammen die ik zelf in de Stille week (de week voor Pasen) gemaakt hebt. Te beginnen bij maandag tot Stille zaterdag. Klik hiervoor links of rechts van de foto.
-
-{% include slideshow.html gallery="slideshow-3" style="wide" %}
