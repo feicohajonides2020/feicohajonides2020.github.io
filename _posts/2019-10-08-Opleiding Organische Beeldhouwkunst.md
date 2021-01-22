@@ -29,17 +29,16 @@ Er wordt gewerkt in ondermeer steen, hout, gips, cement, ijzer koper en brons. O
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="Het ritmisch maken van een beeld" %}
 
 ## Ontwikkelend kunstenaarschap
-Om het scheppende in jezelf te onderzoeken heb je je medemens nodig. Veelal ben je namelijk zelf wat "blind" voor je eigen (on)vermogen. We kennen allemaal die innerlijke stemmen die ons af proberen te houden van ontwikkeling van nieuwe eigen vermogens. Innerlijke stemmen fluisteren ons toe dat we niet nieuws kunnen scheppen, we hebben daar in het geheel geen talent voor. Trouwens er is geen tijd voor om dit te onderzoeken, We hebben iets veel nuttigers te doen.
-Om het kunstnaarschap in jezelf te onderzoeken zal je je gestofferde confortzone moeten verlaten. En daar kan je veelal hulp bij gebruiken.
-In deze opleiding werken we samen aan ingangen om dichtbij jouw unieke kunstenaarschap te komen. Niet om dit scheppende puur voor eigen gewin in te zetten. De opzet van deze opleiding is dat dit kunstenaarschap sociaal kan gaan worden.
-Dat betekent dat je jouw unieke scheppende vermogen in kan gaan zetten voor en met mensen in je direkte omgeving. Zodat dit scheppend tussen mensen kan doorwerken.  
+Om het scheppende in jezelf te onderzoeken heb je je medemens nodig. Veelal ben je namelijk zelf wat "blind" voor je eigen (on)vermogen. We kennen allemaal die innerlijke stemmen die ons af proberen te houden van ontwikkeling van nieuwe eigen vermogens. Innerlijke stemmen fluisteren ons toe dat we niets nieuws kunnen scheppen, we hebben daar in het geheel geen talent voor. Trouwens er is geen tijd voor om dit te onderzoeken, We hebben iets veel nuttigers te doen.
+Om het kunstnaarschap in jezelf te onderzoeken zal je je gestofferde confortzone moeten afstoffen. En daar kan je veelal hulp bij gebruiken.
+In deze opleiding werken we samen aan ingangen om dichtbij jouw unieke kunstenaarschap te komen. Niet om dit scheppende uiteindelijk puur voor eigen gewin te gebruiken. De opzet van deze opleiding is dat dit kunstenaarschap sociaal kan gaan worden.
+Dat betekent dat je jouw unieke scheppende vermogen meer en meer in kan gaan zetten voor en met mensen in je direkte omgeving. Zodat dit scheppend tussen mensen kan gaan doorwerken.  
 
 > Als mensen hun individuele scheppingskracht inzetten om samen te werken, dan kan er zich met deze groep een geestelijk wezen verbinden die vergaand inspirerend en motiverend doorwerkt.
 
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="Het vinden van de eigen scheppingsbron" %}
-
 
 
 
