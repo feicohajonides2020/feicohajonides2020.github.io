@@ -5,7 +5,7 @@ header:
     align:
     text: light
 ---
-Na het introductie jaar volgt de verdieping. Hierin staan de ontwikkeling van eigen vragen en mogelijkheden in de organische beeldhouwkunst centraal. Je kan je bijvoorbeeld vergaand verdiepen in ......
+Na het introductie jaar volgt de verdieping. Hierin staan de ontwikkeling van eigen vragen en mogelijkheden in de organische beeldhouwkunst centraal. Je kan je bijvoorbeeld vergaand verdiepen in >>>
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
 
