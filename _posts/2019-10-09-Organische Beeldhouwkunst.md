@@ -6,15 +6,12 @@ header:
     align:
     text: light
 ---
-Een beeldhouwkunst waarin de waarden van levensprocessen centraal staan, wordt de organische beeldhouwkunst genoemd. Ons dagelijks leven en de natuur om ons heen zit vol met levensprocessen >>>
+Een beeldhouwkunst waarin de waarden van levensprocessen centraal staan, wordt de organische beeldhouwkunst genoemd. Deze beeldhouwkunst heeft tot doel om het (geestelijk- en aards)leven achter materiele beelden zichtbaar wil maken. >>>
 
-Zou je de behoefte voelen om levensprocessen te bestuderen dan zou het een logische stap zijn om eens een biologie boek open te slaan. Immers biologie staat letterlijk voor "logos" wat "leer" betekent en "bio" wat "leven" aanduid. Je zou dus mogen verwachten dat je in zo'n biologie boek  beschrijvingen en afbeeldingen tegenkomt van en over de leer het leven.
-Je komt in veel biologie boeken prachtige foto's en tekeningen over celdelingen en celbevruchtingen tegen. Maar het leven waar deze celdelingen en bevruchtingen van doortrokken zijn blijft wat achter deze foto's en tekeningen verscholen. Het leven wat een celdeling en bevruchting aanstuurt laat zich namelijk niet zo maar in een foto of tekening vastleggen. Het blijven daardoor wat bevroren afbelingen van een bepaald vastgelegd moment in een zeer dynamisch levensproces.
+We leven dagelijks tussen een overdaad aan vorm. Als we om ons heen kijken lijken al die vormen allemaal los van elkaar op zichzelf te staan. In de organische vormgeving zoekt de beeldhouwer naar dat wat de verschillende vormen juist met elkaar verbindt. Het levende verhaal tússen vormen daar draait het bij hem om.
 
-Om de dynamiek van het leven te verbeelden heb je blijkbaar andere ingangen nodig dan gangbare biologie boeken. Je komt al gauw op het terrein van de kunst terrecht. En dan met name de organische beeldhouwkunst. Deze kunstvorm heeft tot taak gesteld om de dynamiek van leven met haar verschillende levensprocessen beleefbaar en zichtbaar te maken.
-
-Als een beeldhouwer een beeld maakt vanuit de organische beeldhouwkunst dan probeert hij zijn beeld stap voor stap op te bouwen. De verschillende vormen die hij voor zijn beeld gebruikt laat hij uit elkaar voortkomen. Ze staan niet los van elkaar. Maar zijn nauw met elkaar verbonden en spreken samen na elkaar een bepaald levensproces uit.
-Laat ik een voorbeeld geven:
+Als een beeldhouwer een beeld maakt vanuit de organische beeldhouwkunst dan probeert hij zijn beeld stap voor stap op te bouwen. De verschillende vormen die hij voor zijn beeld gebruikt laat hij uit elkaar voortkomen. Daarmee probeert hij een bepaald ontwikkelingsproces zichtbaar te maken.
+Laat ik aan de hand van het onderstaand beeld dit proberen te verduidelijken:
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/levenskracht-hl_orig.jpg" alt="Alt for image" caption="Levenskracht" %}
