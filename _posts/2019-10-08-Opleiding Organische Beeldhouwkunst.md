@@ -29,10 +29,14 @@ Er wordt gewerkt in ondermeer steen, hout, gips, cement, ijzer koper en brons. O
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="Het ritmisch maken van een beeld" %}
 
 ## Ontwikkelend kunstenaarschap
-Om het scheppende in jezelf te onderzoeken heb je je medemens nodig. Veelal ben je wat "blind" voor je eigen vermogen. Om de dood eenvoudige reden dat er genoeg innerlijke stemmen zijn die je toefluisteren dat je het toch niet kan, dat je geen talent hebt, geen tijd en dat je nuttig moet zijn wellicht. 
+Om het scheppende in jezelf te onderzoeken heb je je medemens nodig. Veelal ben je wat "blind" voor je eigen vermogen. Om de dood eenvoudige reden dat er genoeg innerlijke stemmen zijn die je toefluisteren dat je het toch niet kan, dat je geen talent hebt, geen tijd en dat je nuttig moet zijn wellicht.
 Om het kunstnaarschap in jezelf te onderzoeken zal je je gestofferde confortzone moeten verlaten.
 In deze opleiding werken we samen aan ingangen om dichtbij jouw unieke kunstenaarschap te komen. Zonder meteen een doel te stellen hoe dit kunstenaarschap eruit zal gaan zien.
-Om dan dit unieke kunstnaarschap in te kunnen gaan zetten voor en met de mensen in je direkte omgeving. Zodat het scheppend tussen de mensen kan doorwerken.
+
+>Om dan dit unieke eigen kunstnaarschap in te kunnen gaan zetten voor en met de mensen in je direkte omgeving. Zodat het scheppend tussen mensen kan doorwerken.
+
+
+
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="Het vinden van de eigen scheppingsbron" %}
