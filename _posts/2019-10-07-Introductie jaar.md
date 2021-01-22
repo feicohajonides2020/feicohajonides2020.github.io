@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-De opleiding begint met een introductie jaar waarin diverse fundamenten van de organische beeldhouwkunst belicht wordt. In dit jaar komt aan bod ......
+De opleiding begint met een introductie jaar waarin diverse fundamenten van de organische beeldhouwkunst belicht wordt. In dit jaar komt aan bod >>>
 
 Het introductie jaar is een jaar waar je onderzoekt of je wat met organische beeldhouwkunst hebt. Liggen daar vragen die jouw leven verder helpen?
 Je onderzoekt in dit jaar jouw manier van beeldhouwen. Jouw vermogens en onvermogens. Na dit jaar kan je kiezen of je de opleiding wil vervolgen met nog twee verdiepingsjaren.
