@@ -9,17 +9,17 @@ Na het introductie jaar volgt de verdieping. Hierin staan de verdere ontwikkelin
 
 
 De twee verdiepingsjaren zijn het hart van de opleiding.
-In het introductie jaar heb je kunnen kennismaken met de organische beeldhouwkunst. Dan kan je gefundeerd besluiten dat je deze opleiding wil verdiepen. De twee verdiepingsjaren bouwen verder op het introductie jaar.
+In het introductie jaar heb je kunnen kennismaken met de organische beeldhouwkunst. Vanuit deze kennismaking kan je gefundeerd besluiten dat je deze opleiding te verdiepen. De twee verdiepingsjaren bouwen verder op het introductie jaar.
 
 
 ## Vormleer
 
-Het vormgeven vanuit de zeven organen staat centraal in deze twee jaren. Vanuit de kwaliteit van elk van de zeven organen worden beelden gemaakt. Een reis langs zeven gebieden die die waardevol kunnen gaan worden voor jouw kunstenaarschap.
+Het vormgeven vanuit de zeven organen staat centraal in deze twee jaren. Vanuit de kwaliteit van elk van de zeven organen worden beelden gemaakt. Je zou het als een reis langs zeven scheppende gebieden kunnen zien. Gebieden die waardevol kunnen gaan worden voor jouw kunstenaarschap. Sommige orgaanskwaliteiten zullen je makkelijker liggen. Andere zijn wellicht lastiger om vanuit te werken. Samen zullen ze jouw beeldende vocabulaire kunnen verruimen.
 
 
 ## Materiaalleer
 Aansluitend op de reis langs te zeven organen werken we wat betreft het materiaal onderzoek met het materiaal dat bij een bepaald orgaan past.
-Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en gereedschappen maken voor steen- en houtbewerking.
+Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en maken het ijzer beeldend. Eerst in het maken van gereedschap. Bijvoorbeeld een beitel voor steenbewerking. Dan een beeld van jouw ervaring van de kracht van ijzer.
 Voor de nier-sfeer is dit bijvoorbeeld koper. We gaan koper bewerken tot een volwaardig beeld.   
 
 
@@ -29,8 +29,8 @@ Centraal staat in de twee verdiepingsjaren dat je vanuit je eigen vragen en eige
 
 Liggen jouw vragen meer op het terrein van de verzorging/geneeskunst. Op welke manier kun je jouw beelden zo ontwikkelen dat ze ook daadwerkelijk ondersteunend/genezend kunnen doorwerken?
 Misschien liggen jouw beeldende vragen meer op het terrein van de natuur. Hoe kan je beelden maken die leven wekkend in een landschap, de planten- en dierenwereld werken?
-De organische beeldhouwkunst kan ook ingezet worden om religieuze thema's zichtbaar te maken, om kinderen bij te staan in hun ontwikkeling enz enz.
-Kortom dit jaar onderzoek je waar je vragen liggen en waar je jouw beeldende vermogen voor in wil zetten.
+De organische beeldhouwkunst kan ook ingezet worden om religieuze thema's zichtbaar te maken, om kinderen bij te staan in hun ontwikkeling, om graf- en geboorte beelden te maken....
+Kortom in de verdiepingsjaren onderzoek je waar je vragen liggen en waar je jouw beeldende vermogen voor in wil zetten.
 
 
 
