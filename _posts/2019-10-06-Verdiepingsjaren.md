@@ -5,30 +5,42 @@ header:
     align:
     text: light
 ---
-Na het introductie jaar volgt de verdieping. Hierin staan de ontwikkeling van eigen vragen en mogelijkheden in de organische beeldhouwkunst centraal. Je kan je bijvoorbeeld vergaand verdiepen in >>>
+Na het introductie jaar volgt de verdieping. Hierin staan de verdere ontwikkeling van eigen vragen en mogelijkheden in de organische beeldhouwkunst centraal. Je kan je bijvoorbeeld vergaand verdiepen in >>>
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
 
-Voor de geboorte van mijn zoon Nathan heb ik een beeld gemaakt. Met dit beeld wens ik hem toe dat hij de aanwezigheid van zijn engel kan blijven ervaren.
+De twee verdiepingsjaren zijn het hart van de opleiding.
+In het introductie jaar heb je kunnen kennismaken met de organische beeldhouwkunst. Dan kan je gefundeerd besluiten dat je deze opleiding wil verdiepen. De twee verdiepingsjaren bouwen verder op het introductie jaar.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/geboortebeeld-wieb_orig.jpg" alt="Alt for image" caption="Geboortebeeld" %}
 
-Dit beeld is een opdracht van twee blije grootouders. Hun kleinkind wilden ze een vertrouwingsvol gebaar meegeven. "Volg je eigenheid en ga er voor in je leven!"
+## Vormleer
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/willy_orig.jpg" alt="Alt for image" caption="herinneringsbeeld Willy" %}
+Het vormgeven vanuit de zeven organen staat centraal in deze twee jaren. Vanuit de kwaliteit van elk van de zeven organen worden beelden gemaakt. Een reis langs zeven gebieden die die waardevol kunnen gaan worden voor jouw kunstenaarschap.
 
-Om een geliefde die gestorven is dagelijks te herinneren is dit beeld gemaakt. In nauwe samenwerking met de nabestaande is ze ontstaan. Beweging typeerde Willy. Dan moet ook dit beeld vol van beweging zijn.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/herinneringsbeeld_orig.jpg" alt="Alt for image" caption="herinneringsbeeld" %}
+## Materiaalleer
+Aansluitend op de reis langs te zeven organen werken we wat betreft het materiaal onderzoek met het materiaal dat bij een bepaald orgaan past.
+Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en gereedschappen maken voor steen- en houtbewerking.
+Voor de nier-sfeer is dit bijvoorbeeld koper. We gaan koper bewerken tot een volwaardig beeld.   
 
-Het rouwen om een gestorven dierbare is hartverscheurend. Enerzijds zal er los gelaten moeten worden. Anderzijds blijft de nabestaande in liefde verbonden. Een verhaal vol tegenstellingen drukt dit beeld uit.
+{
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/margot-kopie_orig.jpg" alt="Alt for image" caption="herinneringsbeeld Margot" %}
+## Eigen project
 
-Ter nagedachtenis aan een geliefde vriendin.
+Centraal staat in de twee verdiepingsjaren dat je vanuit je eigen vragen en eigen projecten gaat realiseren.
 
-## Kleinere herinnerings beelden
-Drie beelden gemaakt voor therapeuticum "de Rozenhof" in Zutphen. Een metamorfose serie van kind, via volwassen naar ouder.
+Liggen jouw vragen meer op het terrein van de verzorging/geneeskunst. Op welke manier kun je jouw beelden zo ontwikkelen dat ze ook daadwerkelijk ondersteunend/genezend kunnen doorwerken?
+Misschien liggen jouw beeldende vragen meer op het terrein van de natuur. Hoe kan je beelden maken die leven wekkend in een landschap, de planten- en dierenwereld werken?
+De organische beeldhouwkunst kan ook ingezet worden om religieuze thema's zichtbaar te maken, om kinderen bij te staan in hun ontwikkeling enz enz.
+Kortom dit jaar onderzoek je waar je vragen liggen en waar je jouw beeldende vermogen voor in wil zetten.
+
+
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Dit beeld is het geboortebeeld voor mijn zoon Nathan. Lieve Nathan, ik wens je toe dat je in je levensgang bewust verbonden blijft met je engel." %}
+
+
+
+## Eigen project als opdracht
+Een eigen onderzoek kan ook een beelden serie zijn. Deze drie beelden zijn gemaakt voor therapeuticum "de Rozenhof" in Zutphen. Een metamorfose serie van kind naar volwassene naar ouder.
 Klik hiervoor links of rechts van de onderstaande foto
 
 
