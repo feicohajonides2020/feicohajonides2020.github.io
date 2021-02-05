@@ -22,7 +22,6 @@ Aansluitend op de reis langs te zeven organen werken we wat betreft het materiaa
 Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en gereedschappen maken voor steen- en houtbewerking.
 Voor de nier-sfeer is dit bijvoorbeeld koper. We gaan koper bewerken tot een volwaardig beeld.   
 
-{
 
 ## Eigen project
 
@@ -37,6 +36,7 @@ Kortom dit jaar onderzoek je waar je vragen liggen en waar je jouw beeldende ver
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Dit beeld is het geboortebeeld voor mijn zoon Nathan. Lieve Nathan, ik wens je toe dat je in je levensgang bewust verbonden blijft met je engel." %}
 
+.
 
 
 ## Eigen project als opdracht
