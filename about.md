@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-## Beeldhouwen als mysterieweg
+## Docenten
 
 Mi
 
