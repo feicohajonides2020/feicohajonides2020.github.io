@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Docenten
-subtitle: visie
+subtitle: 
 permalink: /about/
 header:
     image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/visie_orig.jpg
