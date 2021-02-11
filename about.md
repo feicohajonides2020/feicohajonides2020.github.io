@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Feico Hajonides
+title: Docenten
 subtitle: visie
 permalink: /about/
 header:
