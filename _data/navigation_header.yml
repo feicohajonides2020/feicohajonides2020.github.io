@@ -11,10 +11,10 @@ left:
 
 # Navbar right menu navigation links
 right:
-    - title: docenten
+    - title: Docenten
       url: /about/
 
-    - title: praktische info
+    - title: Praktische info
       url: /opleiding/
 
     - title: Contact
