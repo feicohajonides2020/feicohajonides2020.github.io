@@ -34,7 +34,7 @@ Kortom in de verdiepingsjaren onderzoek je waar je vragen liggen en waar je jouw
 
 
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Dit beeld is het geboortebeeld voor mijn zoon Nathan. Lieve Nathan, ik wens je toe dat je in je levensgang bewust verbonden blijft met je engel."" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Dit beeld is het geboortebeeld voor mijn zoon Nathan. Lieve Nathan, ik wens je toe dat je in je levensgang bewust verbonden blijft met je engel." %}
 
 .
 
