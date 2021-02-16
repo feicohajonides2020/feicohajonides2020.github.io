@@ -1,6 +1,6 @@
 ---
 layout: about
-title: docenten
+title: Docenten
 subtitle:
 permalink: /about/
 header:
