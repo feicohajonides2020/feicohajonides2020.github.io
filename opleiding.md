@@ -18,7 +18,7 @@ Je kan ook via de mail een kennismakingsgesprek aanvragen, klik dan [hier](conta
 
 ## Introductie dagen
 
-Op 5 t/m 7 augustus  zijn de introductie dagen. In deze drie dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Tevens staan deze dagen in het teken van "Mens en zijn roeping". Een algemeen toegankelijke zomer driedaagse.
+Op 15 t/m 17 juli of 5 t/m 7 augustus  zijn de introductie dagen. In deze twee drie dagen, die geheel los van elkaar mee te maken zijn, maak je kennis met een onderdeel van de organische beeldhouwkunst. In de driedaagse van 15 t/m 17 juli gaan we waterbeelden maken van klei. De driedaagse van 5 t/m 7 augustus staat in het teken van "Mens en zijn roeping".
 Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
 Deze vragen worden gedurende de introductie steeds weer vanuit een ander gezichtspunt bewogen.
 
@@ -27,7 +27,7 @@ Voor aanmelding voor de introductie dagen klik [hier](contact.md)
 
 ## Kosten
 
-De kosten voor de drie introductie dagen zijn 375,- euro  (dit is inclusief materiaal en lunch)
+De kosten voor de drie introductie dagen in juli zijn 400,- euro> De drie introductie dagen in augustus kosten 375,- euro  (dit is inclusief materiaal en lunch)
 De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. Exclusief de kosten voor het bronsgieten en museum bezoek.)
 Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
 
@@ -46,5 +46,3 @@ We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij:
 Aardewerkplaats Amiel.
 Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
-
-V
