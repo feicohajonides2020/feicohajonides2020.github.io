@@ -19,14 +19,14 @@ We werken daaraan voornamelijk in klei en boetseerwas.
 Vorm begrippen zoals: "dubbel gebogenvlak", spanningsbogen, ritme in vormopbouw, dode en levende vorm, de werking van schaduw en metamorfose komen in deze opleiding uitgebreid aan bod.
 Als rode draad loopt door de hele opleiding het vormgeven vanuit zeven organen. In het kort gezegd zijn dat zeven ingangen om tot een beeld te kunnen komen. In zeven organen die ons fysiek/etherisch lichaam rijk is zetelen zeven vormkrachten die voor het maken van een beeld te mobiliseren zijn. Ieder orgaan staat voor een totaal andere manier van vormgeven. Je leert in deze opleiding deze zeven ingangen in je zelf te herkennen, te wekken en te hanteren.   
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/stille-week-woensdag-kopie-2_orig.jpg" alt="Alt for image" caption="Dit beeld komt voort uit de gal-sfeer. Het toont kracht centrale stuwing." %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/stille-week-woensdag-kopie-2_orig.jpg" alt="Alt for image" caption="Dit beeld komt voort uit een onderzoek naar centrum gerichte kracht en stuwing." %}
 
 
 ## Materiaalleer
 Beeldhouwen is een fysieke kunstvorm. Het werken in materie is in deze kunst essentieel. Bij het bewerken van materie is het belangrijk dat je inspeelt op de "taal" en mogelijkheden van de materiaal waar je in wil werken. Als je dit met respect voor het wezen van de materie waarin je wilt werken doet, kan er een gesprek ontstaan dat inspirerend en vernieuwend is. In deze opleiding komen diverse materialen en bewerkingsprocessen aan bod.
 Er wordt gewerkt in ondermeer steen, hout, gips, cement, ijzer, koper, lood en brons. Omdat we op de werkplaats een bronsgieterij ter beschikking hebben kunnen we diverse giettechnieken van het uitproberen.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="Dit beeld toont het ritmiseren van een vlak" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="Dit beeld komt voort uit een onderzoek naar het ritmiseren van een vlak" %}
 
 ## Ontwikkelend kunstenaarschap
 Om het scheppende in jezelf te onderzoeken heb je je medemens nodig. Veelal ben je namelijk zelf wat "blind" voor je eigen (on)vermogen. We kennen allemaal die innerlijke stemmen die ons af proberen te houden van het ontwikkelen van nieuwe eigen vermogens. Innerlijke stemmen fluisteren ons toe dat we niets nieuws kunnen scheppen. Ze fluisteren ons toe dat we daar totaal geen talent voor hebben. Trouwens er is helemaal geen tijd voor om dit te onderzoeken. We hebben iets veel nuttigers te doen. Kunst is verspilling van onze tijd.....
@@ -38,7 +38,7 @@ Dat betekent dat je jouw unieke scheppende vermogen meer en meer in kan gaan zet
 
 
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="Dit beeld toont de werking van inspiratie ."  %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="Dit beeld komt voort uit een onderzoek naar de werking van inspiratie ."  %}
 
 
 
