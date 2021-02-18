@@ -27,7 +27,7 @@ Voor aanmelding voor de introductie dagen klik [hier](contact.md)
 
 ## Kosten
 
-De kosten voor de drie introductie dagen in juli zijn 400,- euro> De drie introductie dagen in augustus kosten 375,- euro  (dit is inclusief materiaal en lunch)
+De kosten voor de drie introductie dagen in juli zijn 400,- euro. Dit is inclusief materiaal en lunch. De drie introductie dagen in augustus kosten 375,- euro. Dit is ook inclusief materiaal en lunch.
 De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. Exclusief de kosten voor het bronsgieten en museum bezoek.)
 Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
 
