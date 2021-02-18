@@ -18,14 +18,14 @@ Het vormgeven vanuit de zeven organen staat centraal in deze twee jaren. Vanuit 
 
 
 ## Materiaalleer
-Aansluitend op de reis langs te zeven organen werken we wat betreft het materiaal onderzoek met het materiaal dat bij een bepaald orgaan past.
-Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en maken het ijzer beeldend. Eerst in het maken van gereedschap. Bijvoorbeeld een beitel voor steenbewerking. Dan een beeld van jouw ervaring van de kracht van ijzer.
+Aansluitend op de reis langs de zeven organen werken we wat betreft het materiaal onderzoek met het materiaal dat bij een bepaald orgaan past.
+Voor de Gal-sfeer is dit bijvoorbeeld ijzer. We gaan ijzer smeden en maken het ijzer sprekend en beeldend. Eerst in het maken van gereedschap. Bijvoorbeeld een beitel voor steenbewerking. Dan in een vrij beeld.
 
 
 
 ## Eigen project
 
-Centraal staat in de twee verdiepingsjaren dat je vanuit je eigen vragen en eigen projecten gaat realiseren.
+Centraal in de twee verdiepingsjaren staat het onderzoeken en realiseren van eigen vragen en een project.
 
 Liggen jouw vragen meer op het terrein van de verzorging/geneeskunst. Op welke manier kun je jouw beelden zo ontwikkelen dat ze ook daadwerkelijk ondersteunend/genezend kunnen doorwerken?
 Misschien liggen jouw beeldende vragen meer op het terrein van de natuur. Hoe kan je beelden maken die leven wekkend in een landschap, de planten- en dierenwereld werken?
