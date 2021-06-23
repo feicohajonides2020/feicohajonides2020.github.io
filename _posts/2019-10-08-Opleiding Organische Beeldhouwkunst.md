@@ -24,7 +24,7 @@ Als rode draad loopt door de hele opleiding het vormgeven vanuit zeven organen. 
 
 ## Materiaalleer
 Beeldhouwen is een fysieke kunstvorm. Het werken in materie is in deze kunst essentieel. Bij het bewerken van materie is het belangrijk dat je inspeelt op de "taal" en mogelijkheden van de materiaal waar je in wil werken. Als je dit met respect voor het wezen van de materie waarin je wilt werken doet, kan er een gesprek ontstaan dat inspirerend en vernieuwend is. In deze opleiding komen diverse materialen en bewerkingsprocessen aan bod.
-Er wordt gewerkt in ondermeer steen, hout, gips, cement, ijzer, koper, lood en brons. Omdat we op de werkplaats een bronsgieterij ter beschikking hebben kunnen we diverse giettechnieken van het uitproberen.
+Er wordt gewerkt in ondermeer steen, hout, gips, cement, ijzer, koper, lood en brons. Omdat we op de werkplaats een bronsgieterij ter beschikking hebben kunnen we diverse giettechnieken van het brons uitproberen.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="Dit beeld komt voort uit een onderzoek naar het ritmiseren van een vlak" %}
 
