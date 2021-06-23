@@ -22,7 +22,7 @@ In dit orientatiejaar maak je kennis met het vormgeven vanuit de zeven organen. 
 
 
 ## Materiaalleer
-In het orientatiejaar komt het werken met steen, gips, cement en brons aan bod.
+In het orientatiejaar komt het werken met boetseerwas, klei, gips en cement aan bod.
 Om de mogelijkheden van deze materialen ook buiten de opleiding te kunnen ontdekken is het raadzaam om een eigen werkplek/atelier thuis of elders te hebben. Dan kan je in je eigen tijd deze substanties rustig onderzoeken.  
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/2-door-vleugelen-bewogen_orig.jpg" alt="Alt for image" caption="Dit bronzen beeld is gemaakt en gegoten in een orientatiejaar" %}
