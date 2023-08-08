@@ -30,12 +30,15 @@ Tijdens deze expositie vertelt Feico over het tot stand komen van zijn Hooglied 
 
 
 
-Van juli/augustus 2023
+Van 1 augustus tot 9 september 2023 (uitgezonderd 19 augustus)
 
 ## expositie in Sint Joriskerk in Amersfoort
 
-Jackie Howart en Feico exposeren nieuwe beelden met als thema "de nieuwqe mens"
-Informatie hierover volgt nog.
+Jackie Howart en Feico exposeren nieuwe beelden met als thema "Liefde en Verlangen"
+ Openingstijden: dinsdag t/m zaterdag van 11:00 uur tot 17:00 uur.
+
+ adres: Hof 1 - Amersfoort
+
 
 
 
