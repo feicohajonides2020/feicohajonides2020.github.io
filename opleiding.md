@@ -16,25 +16,25 @@ Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
 Je kan ook via de mail een kennismakingsgesprek aanvragen, klik dan [hier](contact.md)
 
 
-## Introductie dagen
+## Onderzoeksroute
 
-In een workshop in Atelier Organische Beeldhouwkunst deze zomer kan je kennis maken met met een onderdeel van de organische beeldhouwkunst.
-Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
+In tien zaterdag verspreid over het jaar maak je kennis met kan je kennis maken met de organische beeldhouwkunst.
+Een prima gelegenheid om jouw mogelijkheden en talenten in deze beeldhouwkunst te onderzoeken. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in mij aan?
 
 
 ## Kosten
 
 
-De kosten voor de opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten. Exclusief de kosten voor het bronsgieten en museum bezoek.)
+De kosten voor de onderzoeksroute zijn 1250,- euro. De kosten voor de opleiding daarna zijn 2600,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten. Exclusief de kosten voor het bronsgieten en museum bezoek.)
 
 
 ## Tijd
 
-Het introductie jaar start begin september.
+De onderzoeksroute start 21 september 2024. Het eerste jaar start september 2025.
 Dit jaar bestaat uit 20 hele opleidingsdagen.
 De twee verdiepingsjaren na de introductie bestaan samen uit 50 bijeenkomstdagen.
-Zowel voor het introductie jaar als de verdiepingsjaren komt het erop neer dat we tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen.
-Voor een complete datalijst van het introductie jaar kun je contact opnemen met Feico.
+Zowel voor het eerste jaar als de verdiepingsjaren komt het erop neer dat we tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen.
+Voor een complete datalijst van de onderzoeksroute kun je contact opnemen met Feico.
 Iedere dag begint om 9:00uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
 ## Plaats
