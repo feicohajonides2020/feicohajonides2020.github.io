@@ -8,38 +8,24 @@ header:
 ---
 
 
-## Oriëntatie bijeenkomst
-
-Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
-Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
-
-Je kan ook via de mail een kennismakingsgesprek aanvragen, klik dan [hier](contact.md)
-
-
-## Onderzoeksroute
-
-In tien zaterdag verspreid over het jaar maak je kennis met kan je kennis maken met de organische beeldhouwkunst.
-Een prima gelegenheid om jouw mogelijkheden en talenten in deze beeldhouwkunst te onderzoeken. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in mij aan?
-
-
-## Kosten
-
-
-De kosten voor de onderzoeksroute zijn 1250,- euro. De kosten voor de opleiding daarna zijn 2600,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten. Exclusief de kosten voor het bronsgieten en museum bezoek.)
-
-
-## Tijd
-
-De onderzoeksroute start 21 september 2024. Het eerste jaar start september 2025.
-Dit jaar bestaat uit 20 hele opleidingsdagen.
-De twee verdiepingsjaren na de introductie bestaan samen uit 50 bijeenkomstdagen.
-Zowel voor het eerste jaar als de verdiepingsjaren komt het erop neer dat we tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen.
-Voor een complete datalijst van de onderzoeksroute kun je contact opnemen met Feico.
-Iedere dag begint om 9:00uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
-
 ## Plaats
 
-We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij:
-Aardewerkplaats Amiel.
+Atelier Organische Beeldhouwkunst ligt op het terrein van Aardewerkplaats Amiel.
+We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij.
+U kunt het vinden op:
 Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
+
+
+## Kunst begeleidings gesprekken
+
+Enkele jaren nu begeleidt Feico mensen die moeite hebben een bepaalde opgave in hun leven vorm te geven. Dit kan een ernstige (levensbedreigende) ziekte zijn. Een onverteerbare ervaring. Nieuwe beroepskeuze enz. Door deze opgave vanuit de beeldende kunst te bekijken kan het inzicht groeien hoe je met deze opgave om kan gaan. Hoe deze opgave jouw leven een nieuwe positieve draai kan geven. Feico begeleidt dit proces en staat als kunstenaar naast je. Hij geeft niet aan wat goed is en wat slecht. Noch zegt hij wat je moet doen om deze opgave te volbrengen. Het kunstzinnige proces waarin jij het voortouw neemt laat zien wat voor jou goed is en wat niet. Feico helpt je dit te zien en te horen, zodat jouw scheppende en vernieuwende eigenheid zich krachtig, werkzaam en scheppend kan uitspreken. Er worden beelden gemaakt, kunstzinnige oefeningen gedaan, materialen onderzocht. Als dat gewenst is kan je meehelpen om de beelden die ontstaan zijn in brons te gieten.
+
+Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
+
+Voor aanmelding via mail klik dan [hier](contact.md)
+
+
+## Restitutie
+
+Bij afzeggen tot een maand voor aanvang van het gebruik van de Verdieping krijgt u 100% restitutie van het verhuur bedrag. Annulering tot drie weken voor aanvang krijgt u 75% restitutie. Annulering tot twee weken voor aanvang krijgt u 50% restitutie. Annulering tot één week voor aanvang krijgt u 25% restitutie. Annulering 7 dagen of minder vooraf aan de verhuur datum, of achteraf is er geen restitutie.
