@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Welkom
-permalink: /welkom/
+subtitle:
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/img-kopie-2_orig.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/levensarm_orig.jpg
     align:
     text: light
 ---
