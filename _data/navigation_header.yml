@@ -6,13 +6,12 @@ left:
     - title: Exposities
       url: /exposities/
 
-    - title: Cursussen
+    - title: Visie
       url: /lessen/
 
 # Navbar right menu navigation links
 right:
-    - title: Docenten
-      url: /about/
+
 
     - title: Praktische info
       url: /opleiding/
