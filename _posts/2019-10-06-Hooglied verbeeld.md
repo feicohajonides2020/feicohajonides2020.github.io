@@ -11,9 +11,9 @@ header:
 In november staat in Atelier Organische Beeldhouwkunst Hooglied centraal. We gaan dit  prachtige en mysterieuze liefdesgedicht uit het oude Testament beeldend onderzoeken>>
 
 
-Laat mij kussen met de kussen van zijn mond!
-Want liefdevol zijn je liefkozingen, meer dan wijn.
+## Laat mij kussen met de kussen van zijn mond. Want liefdevol zijn je liefkozingen, meer dan wijn.
 Hooglied 1:2
+
 
 Hooglied wordt ook wel de moeder van alle liederen genoemd. Vele kunstenaars hebben deze beeldrijke poëzie als een inspiratiebron gevonden.
 In deze twee dagen gaan we kunstzinnig opzoek naar het mysterie van dit liefdesgedicht. Zodat dit lied zich mogelijk ook in jou zou kunnen uitspreken.
