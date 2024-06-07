@@ -17,6 +17,12 @@ Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
 
 
+## Bronsgieten en smeden
+
+Naast de cursussen en opleidingen wordt er in het atelier zo af en toe brons gegoten en gesmeed.
+Bij voldoende belangstelling kan er in kleine groepen gesmeed worden. Ook is het mogelijk om het bronsgieten eens mee te maken. Heb je daar vragen over, neem dan contact op via mail klik [hier](contact.md)
+
+
 ## Kunst begeleidingsgesprekken
 
 Enkele jaren nu begeleidt Feico mensen die moeite hebben een bepaalde opgave in hun leven vorm te geven. Dit kan een ernstige (levensbedreigende) ziekte zijn. Een onverteerbare ervaring. Nieuwe beroepskeuze enz. Door deze opgave vanuit de beeldende kunst te bekijken kan het inzicht groeien hoe je met deze opgave om kan gaan. Hoe deze opgave jouw leven een nieuwe positieve draai kan geven. Feico begeleidt dit proces en staat als kunstenaar naast je. Hij geeft niet aan wat goed is en wat slecht. Noch zegt hij wat je moet doen om deze opgave te volbrengen. Het kunstzinnige proces waarin jij het voortouw neemt laat zien wat voor jou goed is en wat niet. Feico helpt je dit te zien en te horen, zodat jouw scheppende en vernieuwende eigenheid zich krachtig, werkzaam en scheppend kan uitspreken. Er worden beelden gemaakt, kunstzinnige oefeningen gedaan, materialen onderzocht. Als dat gewenst is kan je meehelpen om de beelden die ontstaan zijn in brons te gieten.
