@@ -14,8 +14,8 @@ In november staat in Atelier Organische Beeldhouwkunst Hooglied centraal. We gaa
 Hooglied 1:2
 
 
-Hooglied wordt ook wel de moeder van alle liederen genoemd. Vele kunstenaars hebben deze beeldrijke poëzie als een inspiratiebron gevonden.
-In deze twee dagen gaan we kunstzinnig opzoek naar het mysterie van dit liefdesgedicht. Zodat dit lied zich mogelijk ook in jou zou kunnen uitspreken.
+Hooglied wordt ook wel de moeder van alle liederen genoemd. Vele kunstenaars hebben deze beeldrijke poëzie als een inspiratiebron gevonden. Marc Chagall heeft er een serie schilderijen vanuit gemaakt. Judith Herzberg heeft er een dichtbundel vanuit geschreven.
+Op 8 en 9 november gaan we kunstzinnig opzoek naar het mysterie van dit liefdesgedicht. Zodat dit lied zich mogelijk ook in jou zou kunnen uitspreken.
 
 In de ochtend gaan we met kunstzinnige oefeningen een deel van dit lied onderzoeken. Om dan in de middag door middel van steen, koper of klei aan een eigen verbeelding van Hooglied te werken.  
 
