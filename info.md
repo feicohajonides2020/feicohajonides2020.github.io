@@ -36,4 +36,4 @@ Voor aanmelding via mail klik dan [hier](contact.md)
 
 ## Restitutie
 
-Bij afzeggen tot een maand voor aanvang van het gebruik van de Verdieping krijgt u 100% restitutie van het verhuur bedrag. Annulering tot drie weken voor aanvang krijgt u 75% restitutie. Annulering tot twee weken voor aanvang krijgt u 50% restitutie. Annulering tot één week voor aanvang krijgt u 25% restitutie. Annulering 7 dagen of minder vooraf aan de verhuur datum, of achteraf is er geen restitutie.
+Bij afzeggen tot een maand voor aanvang van een cursus of bijeenkomst krijgt u 100% restitutie van het cursus bedrag. Annulering tot drie weken voor aanvang krijgt u 75% restitutie. Annulering tot twee weken voor aanvang krijgt u 50% restitutie. Annulering tot één week voor aanvang krijgt u 25% restitutie. Annulering 7 dagen of minder vooraf aan de cursus- of bijeenkomstdatum, of achteraf de cursus of bijeenkomst is er geen restitutie mogelijk.
