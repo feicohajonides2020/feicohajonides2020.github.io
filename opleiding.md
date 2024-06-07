@@ -12,9 +12,11 @@ header:
 
 Atelier Organische Beeldhouwkunst ligt op het terrein van Aardewerkplaats Amiel.
 We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij.
-U kunt het vinden op:
+Het adres is:
+
 Windheuvelstraat 3
-6971 JV Brummen (nabij Zutphen).
+6971 JV Brummen
+(nabij Zutphen).
 
 
 ## Bronsgieten en smeden
