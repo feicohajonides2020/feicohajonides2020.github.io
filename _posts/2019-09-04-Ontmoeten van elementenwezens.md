@@ -12,9 +12,9 @@ Van 19, 20 tot 21 juni 2025 gaan we weer in atelier organische beeldhouwkunst de
 > Als wij eens wisten hoe behulpzaam elementenwezens naar ons toe willen zijn, dan zouden we deze wezens veel meer een plek in ons dagelijks leven willen geven.
 
 
-In november gaan we het onderzoek aan om de elementenwezens in hun werkzaamheid beleefbaar te maken. De beeldende kunst helpt ons om toegang te krijgen tot de diverse elementen wezens.  
+De beeldende kunst is een dankbare ingang om het wat verborgen rijk van de elementenwezens te onderzoeken. We gaan ons via kunst oefeningen verplaatsen in deze wezens. zodat je hun taak aan de lijve kan ervaren.
 
-Kortom, in deze zomer driedaagse worden ingangen aangeboden om contact aan te kunnen gaan met enkele van deze natuurwezens. Kunstdagen waarin je een nieuwe waardevolle verhouding tot deze onmisbaren wezens kan krijgen.
+Kortom, in deze zomer driedaagse worden ingangen aangeboden om contact aan te kunnen gaan met deze natuurwezens. 
 
 In de ochtend onderzoeken we door middel van beeldende oefeningen  de werkzaamheid van een bepaald natuurwezen. Volksverhalen ondersteunen ons hierbij.
 
