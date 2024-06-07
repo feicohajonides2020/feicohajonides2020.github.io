@@ -8,9 +8,9 @@ header:
 ---
 In September start er weer een onderzoeksroute van tien zaterdagen verspreid over een jaar. Een route waarin je de organische beeldhouwkunst kan ontdekken, je vaardigheden hierin kan vergroten. Kortom de kunstenaar in jezelf ruimte kan geven>>
 
-Een route waarin iedere deelnemer aan een eigen beeldend project kan werken. Dat kan een thema zijn dat jou aanspreekt. Bijvoorbeeld boetseren van het menselijke of levenskracht. Tijdens deze dagen kan je met diverse materialen (bijvoorbeeld: hout, metaal, gips, steen)) en diverse technieken werken.  Kortom een onderzoeksroute waarin via jouw thema de fundamenten van de organische beeldhouwkunst kan onderzoeken.  
+Een route waarin iedere deelnemer aan een eigen beeldend project kan werken. Dat kan een thema zijn dat jou aanspreekt. Bijvoorbeeld boetseren van het menselijke. Tijdens deze dagen kan je met diverse materialen (bijvoorbeeld: hout, metaal, gips, steen) en diverse technieken werken.  Kortom een onderzoeksroute waarin via jouw thema de fundamenten van de organische beeldhouwkunst kan onderzoeken.  
 
-Daarnaast kiezen we iedere keer als opmaat een thema uit de Organische Beeldhouwkunst. Dit thema onderzoeken we met elkaar. Thema’s als: “hoe breng ik levenskracht in mijn vormen?” of “hoe druk ik liefde uit in een beeld?“  
+Daarnaast kiezen we iedere keer als opmaat een thema uit de Organische beeldhouwkunst. Dit thema onderzoeken we met elkaar. Thema’s als: “hoe breng ik levenskracht in mijn vormen?” of “hoe druk ik liefde uit in een beeld?“
 
 Kortom: een verrassende route waarin je jouw kunstenaarschap ruimte geeft en kan voeden
 zodat het een waardevolle plaats in jouw leven kan krijgen.
