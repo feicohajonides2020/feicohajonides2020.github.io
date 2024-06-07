@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-In September start er weer een onderzoeksroute van tien zaterdagen verspreid over een jaar. Een route waarin je de organische beeldhouwkunst kan ontdekken, je vaardigheden hierin kan vergroten. Kortom de kunstenaar in jezelf ruimte kan geven>>
+In september start er weer een onderzoeksroute van tien zaterdagen verspreid over een jaar. Een route waarin je de organische beeldhouwkunst kan ontdekken, je vaardigheden hierin kan vergroten. Kortom de kunstenaar in jezelf ruimte kan geven>>
 
 Een route waarin iedere deelnemer aan een eigen beeldend project kan werken. Dat kan een thema zijn dat jou aanspreekt. Bijvoorbeeld boetseren van het menselijke. Tijdens deze dagen kan je met diverse materialen (bijvoorbeeld: hout, metaal, gips, steen) en diverse technieken werken.  Kortom een onderzoeksroute waarin via jouw thema de fundamenten van de organische beeldhouwkunst kan onderzoeken.  
 
