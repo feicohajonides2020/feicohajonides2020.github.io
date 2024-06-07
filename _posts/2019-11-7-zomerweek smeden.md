@@ -23,4 +23,6 @@ Tijd: 29 t/m 31 augustus van 9:30 tot 16:00 uur
 Kosten: 500,- (inclusief materiaal en lunch)
 
 Voor aanmelding:
-klik op "contact"
+
+
+{% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
