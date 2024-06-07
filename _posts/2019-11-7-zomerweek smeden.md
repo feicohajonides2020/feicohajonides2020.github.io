@@ -7,6 +7,15 @@ header:
     align:
     text: light
 ---
-Voor de activiteiten binnen Atelier Organische beeldhouwkunst klik op de groene kopregels. Voor ondermeer [cursussen](404.md) en [exposities](exposities) zie het menu rechts boven deze bladzijde.
+Van 29 tot en met 31 augustus wordt in Atelier voor de Organische Beeldhouwkunst het gesprek tussen ijzer en koper onderzocht. Het ijzer wordt gesmeed. Je leert enkele basistechnieken om het krachtvolle ijzer te vormen.
+Het koper wordt gedreven. Je leert enkele technieken om met dit weke en dienende materiaal om te gaan. Beide metalen vertegenwoordigen polaire kwaliteiten in onze ziel.
+Door beide metalen is gesprek met elkaar te brengen kunnen er kunstzinnige vormen ontstaan die het scheppende tussen een polariteit zichtbaar maken.
+ Drie dagen waarin verhalen klinken, een ijzeren fibula wordt gesmeed en een koperen offerschaal wordt gedreven. Centraal in deze driedaagse staat een eigen werkstuk/een kunstzinnig beeld. Jouw verbeelding van het alchemistisch huwelijk tussen ijzer en koper.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/broederschap_orig.jpg" alt="Alt for image" caption="Opdracht voor het dorp Almen gemeente Lochem" %}
+Begeleiding: Feico Hajonides
+
+Tijd: 29 t/m 31 augustus van 9:30 tot 16:00 uur
+
+Kosten: 500,- (inclusief materiaal en lunch)
+
+Aanmelden: info@feicohajonides.nl
