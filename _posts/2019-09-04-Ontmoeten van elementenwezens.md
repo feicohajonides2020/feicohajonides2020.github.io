@@ -6,13 +6,13 @@ header:
     align:
     text: light
 ---
-Van 19, 20 tot 21 juni 2025 gaan we weer in atelier organische beeldhouwkunst de werking en onze verbinding met  elementenwezens kunstzinnig onderzoeken. Wat is de werkzaamheid van gnomen? Wat beweegt de Undinen? Wat is de liefdevolle eigenaardigheid van elven? En hoe kom je tot de inspiraties van de Vuurwezens? >>
+Van 19, 20 tot 21 juni 2025 gaan we weer in atelier organische beeldhouwkunst de werking en onze verbinding met  elementenwezens kunstzinnig onderzoeken. Wat is de werkzaamheid van Gnomen? Wat beweegt de Undinen? Wat is de liefdevolle eigenaardigheid van Elven? En hoe kom je tot de inspiraties van de Vuurwezens? >>
 
 
 > Als wij eens wisten hoe behulpzaam elementenwezens naar ons toe willen zijn, dan zouden we deze wezens veel meer een plek in ons dagelijks leven willen geven.
 
 
-De beeldende kunst is een dankbare ingang om het wat verborgen rijk van de elementenwezens te onderzoeken. We gaan ons via kunst oefeningen verplaatsen in deze wezens. zodat je hun taak aan de lijve kan ervaren.
+De beeldende kunst is een dankbare ingang om het wat verborgen rijk van deze  elementenwezens te onderzoeken. We gaan ons via kunst oefeningen verplaatsen ín deze wezens. Zodat we hun werkzaamheid zelf aan de lijve kan ervaren.
 
 Kortom, in deze zomer driedaagse worden ingangen aangeboden om contact aan te kunnen gaan met deze natuurwezens. 
 
