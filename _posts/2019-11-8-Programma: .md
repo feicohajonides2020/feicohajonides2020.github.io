@@ -12,7 +12,7 @@ Klik op de groene kopregels voor meer info.
 > Als wij eens wisten hoe behulpzaam elementenwezens naar ons toe willen zijn, dan zouden we deze wezens veel meer een plek in ons dagelijks leven willen geven.
 
 
-In juni 2025 onderzoeken we in atelier organische beeldhouwkunst de werkzaamheid van de elemenent wezens. Wat hebben de Gnomen ons te zeggen? wel;ke taal spreken de bewegelijk Undinen? Welke liedefdevolle offerkracht dragen de elven met zich mee? Hoe kunnen we ons laten  inspireren door de Vuurwezens?
+19, 20, 21 Juni 2025 onderzoeken we in atelier organische beeldhouwkunst de werkzaamheid van de elemenent wezens. Wat hebben de Gnomen ons te zeggen? Welke taal spreken de bewegelijk Undinen? Welke liedefdevolle offerkracht dragen de elven met zich mee? Hoe kunnen we ons laten  inspireren door de Vuurwezens?
 
    De beeldende kunst is een dankbare ingang om het wat verborgen rijk van deze  elementenwezens te onderzoeken. We gaan ons via kunstoefeningen verplaatsen ín deze wezens. Zodat we hun werkzaamheid zelf aan de lijve kunnen ervaren.
 
@@ -24,7 +24,7 @@ In de middag werkt ieder aan een eigen vrijstaand beeld in steen, hout, klei of 
 
 Begeleiding: Feico Hajonides
 
-Tijd: Donderdag tot en met zaterdag  dagelijks van 9 tot 16 uur.
+Tijd: Donderdag 19 juni tot en met zaterdag 21 juni dagelijks van 9 tot 16 uur.
 
 Kosten: 400,- euro.
 Dit is inclusief materiaal en lunch.                   
