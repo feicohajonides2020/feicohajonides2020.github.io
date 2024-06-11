@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-Op donderdag 2 januari gieten we in Atelier Organische Beeldhouwkunst vloeibaar tin in water uit.  En gebruik dat al eeuen oud is en veelal rond oud en nieuw samen gedaan wordt>>
+Op donderdag 2 januari gieten we in Atelier Organische Beeldhouwkunst vloeibaar tin in water uit.  En gebruik dat al eeuwen oud is en veelal rond oud en nieuw samen gedaan wordt>>
 
 
 Het bijzondere van het tingieten in gevitaliseerd water is dat bij ieder een eigen vorm zichtbaar wordt. Zou in deze vorm iets van de potentie van jouw nieuwe jaar zichtbaar worden? Zo ja, hoe kan je zicht krijgen op het verhaal achter jouw tin vorm?
