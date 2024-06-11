@@ -18,6 +18,12 @@ Windheuvelstraat 3
 6971 JV Brummen
 (nabij Zutphen).
 
+## Docent
+
+De meeste lessen in atelier organische beeldhouwkunst worden door Feico Hajonides gegeven.
+Vijf en dertig jaar is hij als professioneel beeldhouwer actief. daarnaast geeft hij al dertig jaar les in deze kunst.
+Zijn werk kunt u zien op: www.FeicoHajonides.nl
+
 
 ## Bronsgieten en smeden
 
