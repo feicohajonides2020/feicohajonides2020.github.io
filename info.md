@@ -23,6 +23,8 @@ Windheuvelstraat 3
 De meeste lessen in atelier organische beeldhouwkunst worden door Feico Hajonides gegeven.
 Vijf en dertig jaar is hij als professioneel beeldhouwer actief. daarnaast geeft hij al dertig jaar les in deze kunst.
 Zijn werk kunt u zien op: www.FeicoHajonides.nl
+<div align="center">
+  <a href="https://www.feicohajonides.nl
 
 
 ## Bronsgieten en smeden
