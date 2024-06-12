@@ -15,7 +15,7 @@ We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij.
 Het adres is:
 
 Windheuvelstraat 3
-6971 JV Brummen
+- 6971 JV Brummen
 (nabij Zutphen).
 
 ## Docenten
