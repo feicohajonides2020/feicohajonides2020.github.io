@@ -23,4 +23,5 @@ Tijd: 2 januari van 11:00 tot 12:30 uur
 Kosten: 25,- euro
 
 Aanmelding:
-Klik op "contact" bovenaan
+Klik op "contact"
+boven of onder deze bladzijde in de navigatiebalk
