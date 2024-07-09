@@ -24,4 +24,5 @@ Tijd: 28 en 29 maart van 9:00 tot 16:00 uur.
 Kosten: 240,- euro. (Dit is inclusief materiaal en lunch).
 
 Aanmelden:
-Klik op "contact" bovenaan
+Klik op "contact"
+boven of onder deze bladzijde in de navigatiebalk
