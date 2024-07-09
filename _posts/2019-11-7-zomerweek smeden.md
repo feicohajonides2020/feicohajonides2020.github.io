@@ -26,4 +26,4 @@ Kosten: 500,- (inclusief materiaal en lunch)
 Voor aanmelding:
 klik op "contact"
 
-[hier](contact.md)
+[hier](visie.md)
