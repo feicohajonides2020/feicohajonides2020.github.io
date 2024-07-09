@@ -26,4 +26,5 @@ Tijd: Tien zaterdagen van 9:00 uur tot 16:00 uur
 Kosten: 1250,-  euro (tien bijeenkomsten, inclusief basismateriaal)
 
 Aanmelden:
-Klik op "contact" hierboven
+Klik op "contact"
+boven of onder deze bladzijde in de navigatiebalk
