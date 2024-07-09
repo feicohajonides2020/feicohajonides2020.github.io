@@ -29,4 +29,5 @@ Tijd: 8 en 9 november van 9.00 tot 16.00 uur.
 Kosten: 250,- euro (inclusief materiaal en lunch)
 
 Aanmelden:
-Klik op "contact" hierboven
+Klik op "contact"
+boven of onder deze bladzijde in de navigatiebalk
