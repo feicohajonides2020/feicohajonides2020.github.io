@@ -25,5 +25,4 @@ Kosten: 500,- (inclusief materiaal en lunch)
 
 Voor aanmelding:
 klik op "contact"
-
-[hier](contact.md)
+boven of onder deze bladzijde in de navigatiebalk
