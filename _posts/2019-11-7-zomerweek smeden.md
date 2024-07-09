@@ -9,7 +9,7 @@ header:
 ---
 Van 29 tot en met 31 augustus wordt in Atelier voor de Organische Beeldhouwkunst het gesprek tussen ijzer en koper onderzocht. 
 Je leert enkele basistechnieken om het krachtvolle ijzer te vormen.
-Het koper wordt gedreven. Je leert enkele technieken om met dit weke en dienende materiaal om te gaan >> 
+Het koper wordt gedreven. Je leert enkele technieken om met dit weke en dienende materiaal om te gaan >>
 
 
 
@@ -25,3 +25,5 @@ Kosten: 500,- (inclusief materiaal en lunch)
 
 Voor aanmelding:
 klik op "contact"
+
+[hier](contact.md)
