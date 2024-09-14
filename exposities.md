@@ -27,20 +27,20 @@ Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
 --------------------------
 
 
-zaterdag 22 en zondag 23 maart 2025
-## Brabant Art Fair
 
-In de ruime Koepelhal in Tilburg exposeert Feico beelden met als thema "het edele in de mens".
-In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
-U bent van harte welkom!
+22 en 23 maart 2025
+## Kunstbeurs in Tilburg
 
-Koepelhal
-NS-Plein
-5014 DA Tilburg
+In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
+
+ Openingstijden:
+ zaterdag en zondag van 11:00 uur tot 17:00 uur
 
 
-Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur
-
+ Adres:
+ De Koepelhallen
+ NS-Plein
+ Tilburg
 
 --------------------------
 
