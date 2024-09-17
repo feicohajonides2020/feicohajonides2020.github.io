@@ -8,24 +8,6 @@ header:
 ---
 
 
-Van 26 mei tot 30 juni 2024
-## Expositie in "Het Oude Raadhuis" in Warmond
-
-Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
-In deze expositie kunt u ook beeldendwerk tegenkomen dat vanuit Hooglied is gemaakt.
-Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
-
- Openingstijden:
- zaterdag van 11:00 uur tot 17:00 uur
- zondag van 13:00 uur tot 17:00 uur
- woensdag t/m vrijdag van 15:00 uur tot 17:00 uur.
-
- Adres:
- Dorpsstraat 36
- 2361 BE Warmond
-
---------------------------
-
 
 
 22 en 23 maart 2025
