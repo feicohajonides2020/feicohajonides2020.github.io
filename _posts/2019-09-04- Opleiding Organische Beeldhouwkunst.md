@@ -9,7 +9,6 @@ header:
 
 
 
-## Parttime opleiding Organische Beeldhouwkunst
 
 In september 2025 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. In deze opleiding willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin jouw ziel zich in mee kan bewegen en zich in uit kan spreken. Kortom een beeldhouwkunst die ons wakker maakt voor onze eigen levensopgave.
 
