@@ -33,7 +33,7 @@ Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst ver
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. Z'n kennismakingsgesprek kan via de telefoon of "life" op lokatie.  We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
 Voor een afspraak kun je contact met Feico opnemen: telf. 0630953313
 
-Voor aanmelding via mail klik dan [hier](contact.md)
+Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
 
 
 ## Kosten
@@ -58,33 +58,6 @@ Door het jaar heen bezoeken we musea en galeries.
 
 Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
-Voor aanmelding via mail klik dan [hier](contact.md)
-
 
 
 _________
-
-## Kunst begeleidingsgesprekken
-
-Enkele jaren nu begeleidt Feico mensen die moeite hebben een bepaalde opgave in hun leven vorm te geven. Dit kan een ernstige (levensbedreigende) ziekte zijn. Een onverteerbare ervaring. Nieuwe beroepskeuze enz.
-Door deze opgave vanuit de beeldende kunst te bekijken kan het inzicht groeien hoe je met deze opgave om kan gaan. Hoe deze opgave jouw leven een nieuwe positieve draai kan geven.
-Feico begeleidt dit proces en staat als kunstenaar naast je. Hij geeft niet aan wat goed is en wat slecht. Noch zegt hij wat je moet doen om deze opgave te volbrengen. Het kunstzinnige proces waarin jij het voortouw neemt laat zien wat voor jou goed is en wat niet. Feico helpt je dit te zien en te horen, zodat jouw scheppende en vernieuwende eigenheid zich krachtig, werkzaam en scheppend kan uitspreken.
-Er worden beelden gemaakt, kunstzinnige oefeningen gedaan, materialen onderzocht. Als dat gewenst is kan je meehelpen om de beelden die ontstaan zijn in brons te gieten.
-
-Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
-
-Voor aanmelding via mail klik dan [hier](contact.md)
-
-_________
-
-## Restitutie voor annulering cursus/opleiding:
-
-Tot een maand voor aanvang van de cursus/opleiding krijgt u 100% restitutie van het gehele cursusgeld.
-Annulering tot drie weken voor aanvang krijgt u 75% restitutie.
-Annulering tot twee weken voor aanvang krijgt u 50% restitutie.
-Annulering tot één week voor aanvang krijgt u 25% restitutie.
-Annulering 7 dagen of minder vooraf aan de cursus, gedurende de cursus of achteraf is er geen restitutie.
-
-Aanmelding:
-Klik op "contact"
-boven of onder deze bladzijde in de navigatiebalk
