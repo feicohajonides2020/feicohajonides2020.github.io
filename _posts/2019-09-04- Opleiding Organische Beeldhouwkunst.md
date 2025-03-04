@@ -56,8 +56,10 @@ Windheuvelstraat 3
 
 Door het jaar heen bezoeken we musea en galeries.
 
+Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
-Voor uitgebreidere informatie over deze opleiding: [https://feicohajonides2020.github.io](https://feicohajonides2020.github.io)
+Voor aanmelding via mail klik [hier](contact.md)
+
 
 
 _________
