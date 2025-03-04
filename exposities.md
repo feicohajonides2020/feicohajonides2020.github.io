@@ -26,6 +26,21 @@ In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als the
 
 --------------------------
 
+8 juni tot 29 juni 2025
+## expositie in de Regenboogkerk
+
+In deze afsluitende expositie toont Feico enkele Hooglied beelden en nieuw werk waarin inspiratie voelbaar is. Zondag 8 juni om 11:30 uur vertelt hij over zijn werk. U bent van harte welkom!
+
+ Openingstijden:
+ zaterdag en zondag van 11:00 uur tot 17:00 uur
+
+
+ Adres:
+ De Regenboogkerk
+ Mauritslaan 12
+ Oegstgeest
+
+ ----------------------------
 
 
 
