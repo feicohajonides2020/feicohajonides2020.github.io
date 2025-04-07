@@ -36,6 +36,7 @@ Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een g
 Voor een afspraak kun je contact met Feico opnemen: telf. 0630953313
 
 Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
+Voor aanmelding via mail klik [hier](contact.md)
 
 
 ## Kosten
@@ -45,7 +46,7 @@ De kosten voor deze opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend 
 
 ## Tijd
 
-Het eerste jaar van de opleiding start vrijdag 5 september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand een vrijdag en een zaterdag aansluitend. 
+Het eerste jaar van de opleiding start vrijdag 5 september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand een vrijdag en een zaterdag aansluitend.
 
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
@@ -59,6 +60,9 @@ Windheuvelstraat 3
 Door het jaar heen bezoeken we musea en galeries.
 
 Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
+
+Voor aanmelding via mail klik [hier](contact.md)
+
 
 
 
