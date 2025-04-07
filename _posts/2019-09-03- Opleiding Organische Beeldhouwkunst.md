@@ -10,7 +10,7 @@ header:
 
 
 
-In september 2025 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. In deze opleiding willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin jouw ziel zich in mee kan bewegen en zich in uit kan spreken. Kortom een beeldhouwkunst die ons wakker maakt voor onze eigen levensopgave.
+Vrijdag 5 september 2025 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. In deze opleiding willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin jouw ziel zich in mee kan bewegen en zich in uit kan spreken. Kortom een beeldhouwkunst die ons wakker maakt voor onze eigen levensopgave.
 
 Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Ieder draagt een bron van scheppen in zich. In deze opleiding proberen we een voedingsbodem aan te bieden waarop ieder zijn/haar eigen kunstenaarschap kan ontwikkelen. We geven een basis, namelijk het vormgeven vanuit de zeven orgaansferen. Een basis die ruim genoeg is om hier vanuit jouw eigen mogelijkheden te onderzoeken. Ook de diverse technieken en materialen die aan bod komen staan geheel in dienst van het ontwikkelen van het eigen kunstenaarschap.
 
@@ -45,7 +45,7 @@ De kosten voor deze opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend 
 
 ## Tijd
 
-Het eerste jaar van de opleiding start in september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand twee dagen.
+Het eerste jaar van de opleiding start vrijdag 5 september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand een vrijdag en een zaterdag aansluitend. 
 
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
