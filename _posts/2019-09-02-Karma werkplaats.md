@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-7 en 8 november 2025 gaan we verder met een “Karma werkplaats”. Door middel van kunstzinnig (beeldend) werken gaan we de wetten van Karma onderzoeken. Dit om zicht te krijgen in je eigen karmische opgaven>>
+7 en 8 november 2025 gaan we verder met de “Karma werkplaats”. Door middel van kunstzinnig (beeldend) werken gaan we de wetten van Karma onderzoeken. Dit om zicht te krijgen in je eigen karmische opgaven. Ieder is welkom!
 
 
 In deze tweedaagse bekijken we welke karma bepaalde invloeden in jouw huidige leven meespreken. Bijvoorbeeld een bepaalde gebeurtenis die bepalend is voor je huidige leven. Door hier vanuit een karma-bewustzijn naar te kijken zou je daar meer en meer een vrij wilsbesluit in kan nemen.
