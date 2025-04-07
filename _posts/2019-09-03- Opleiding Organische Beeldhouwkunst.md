@@ -33,10 +33,9 @@ Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst ver
 ## Kennismaking
 
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. Z'n kennismakingsgesprek kan via de telefoon of "life" op lokatie.  We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
-Voor een afspraak kun je contact met Feico opnemen: telf. 0630953313
+Voor een afspraak kun je contact met Feico opnemen.
 
 Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
-Voor aanmelding via mail klik [hier](contact.md)
 
 
 ## Kosten
@@ -61,7 +60,8 @@ Door het jaar heen bezoeken we musea en galeries.
 
 Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
-Voor aanmelding via mail klik [hier](contact.md)
+Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
+
 
 
 
