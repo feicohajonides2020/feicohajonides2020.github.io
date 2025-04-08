@@ -28,6 +28,22 @@ In deze afsluitende expositie toont Feico enkele Hooglied beelden en nieuw werk 
  ----------------------------
 
 
+ 21 en 22 maart 2026
+## Kunstbeurs in Tilburg
+
+
+ In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
+
+  Openingstijden:
+  zaterdag en zondag van 11:00 uur tot 17:00 uur
+
+
+  Adres:
+  De Koepelhallen
+  NS-Plein
+  Tilburg
+
+----------------------------
 
 ## Film over de Hooglied expositie
 
