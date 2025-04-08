@@ -40,7 +40,7 @@ Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
 
 ## Kosten
 
-De kosten voor deze opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten om. Exclusief kosten voor het bronsgieden en museum/galerie bezoek.)
+De kosten voor deze opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten om. Exclusief kosten voor het bronsgieten en museum/galerie bezoek.)
 
 
 ## Tijd
@@ -60,7 +60,7 @@ Door het jaar heen bezoeken we musea en galeries.
 
 Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
-Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
+Voor aanmelding of vragen klik boven deze bladzijde rechts in het menu:  "Contact"
 
 
 
