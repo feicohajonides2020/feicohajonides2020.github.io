@@ -37,7 +37,7 @@ Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst ver
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. Z'n kennismakingsgesprek kan via de telefoon of "life" op lokatie.  We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
 Voor een afspraak kun je contact met Feico opnemen.
 
-Voor aanmelding of vragen klik boven of onder deze bladzijde op "Contact"
+Voor aanmelding of vragen klik boven deze bladzijde rechts in het menu: "Contact".
 
 
 ## Kosten
