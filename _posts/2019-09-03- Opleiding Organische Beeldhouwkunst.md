@@ -16,7 +16,7 @@ We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden
 
 Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Ieder draagt een bron van scheppen in zich. In deze opleiding proberen we een voedingsbodem aan te bieden waarop ieder zijn/haar eigen kunstenaarschap kan ontwikkelen. We geven een basis, namelijk het vormgeven vanuit de zeven orgaansferen. Een basis die ruim genoeg is om hier vanuit jouw eigen mogelijkheden te onderzoeken. Ook de diverse technieken en materialen die aan bod komen staan geheel in dienst van het ontwikkelen van het eigen kunstenaarschap.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/stille-week-woensdag-kopie-2_orig.jpg" alt="Alt for image" caption="Woensdag" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/stille-week-woensdag-kopie-2_orig.jpg" alt="Alt for image" caption="Aswoensdag" %}
 
 In het introductiejaar wordt er een begin gemaakt met het onderzoeken van de zeven vormgevende “organen” waar vanuit de Organische beeldhouwer zijn beelden maakt. Zeven bronnen, zeven inspiraties om beelden te maken.
 
