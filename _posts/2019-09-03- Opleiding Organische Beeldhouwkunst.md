@@ -10,7 +10,7 @@ header:
 
 
 
-Vrijdag 5 september 2025 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
+Vrijdag 4september 2026 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
 
 We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. In deze opleiding van in totaal drie jaar willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin niet louter het zichtbare het uitgangspunt is, maar waarin ook het onzichtbare (de ziele- en geestelijke wereld) het motief is waar vanuit er gewerkt wordt. Kortom een beeldhouwkunst waarin het gaat om jouw vormen waarin jouw verhaal zich uitspreken kan.
 
@@ -47,14 +47,14 @@ De kosten voor deze opleiding zijn 2600,- euro pp per jaar. (Inclusief beeldend 
 
 ## Tijd
 
-Het eerste jaar van de opleiding start vrijdag 5 september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand een vrijdag en een zaterdag aansluitend.
+Het eerste jaar van de opleiding start vrijdag 4 september 2025 en bestaat uit 20 dag-bijeenkomsen. Van september t/m juni iedere maand een vrijdag en een zaterdag aansluitend.
 
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
 ## Plaats
 
 We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij:
-Aardewerkplaats Amiel.
+Atelier Organische Beeldhouwkunst.
 Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
 
