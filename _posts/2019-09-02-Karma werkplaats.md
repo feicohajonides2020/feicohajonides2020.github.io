@@ -6,12 +6,11 @@ header:
     align:
     text: light
 ---
-7 en 8 november 2025 gaan we verder met de “Karma werkplaats”. Door middel van kunstzinnig (beeldend) werken gaan we de wetten van Karma onderzoeken. Dit om zicht te krijgen in je eigen karmische opgaven. Ieder is welkom!
+Op 7 en 8 november gaan we verder met de “Karma werkplaats”. Door middel van de beeldend kunst gaan we de wetten van Karma onderzoeken. Dit om zicht te krijgen in je eigen karmische opgaven. Ieder is welkom. Ook als je nog niet eerder met een eerdere karma-werkplaats hebt meegedaan.
+In deze tweedaagse bekijken we hoe karma in jouw huidige leven meespreekt. Bijvoorbeeld hoe kan je een bepaalde gebeurtenis die bepalend is voor je huidige leven in het licht zien van karma. We diverse beelden, zodat je meer en meer in deze gebeurtenissen een vrij wilsbesluit kan nemen.
 
+In de ochtend werken we kunstzinnig aan een bepaald thema. In de middag werk je dat wat je gevonden hebt in een eigen beeld uit.
 
-In deze tweedaagse bekijken we welke karma bepaalde invloeden in jouw huidige leven meespreken. Bijvoorbeeld een bepaalde gebeurtenis die bepalend is voor je huidige leven. Door hier vanuit een karma-bewustzijn naar te kijken zou je daar meer en meer een vrij wilsbesluit in kan nemen.
-
-In de ochtend werken we kunstzinnig aan dit thema. In de middag werk je dat wat je gevonden hebt in een eigen beeld uit.
 
 
 Met: Feico Hajonides
