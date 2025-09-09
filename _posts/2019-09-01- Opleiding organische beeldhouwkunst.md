@@ -10,7 +10,7 @@ header:
 
 
 
-Vrijdag 4september 2026 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
+Vrijdag 4 september 2026 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
 
 We beginnen met een introductie jaar. In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. In deze opleiding van in totaal drie jaar willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin niet louter het zichtbare het uitgangspunt is, maar waarin ook het onzichtbare (de ziele- en geestelijke wereld) het motief is waar vanuit er gewerkt wordt. Kortom een beeldhouwkunst waarin het gaat om jouw vormen waarin jouw verhaal zich uitspreken kan.
 
