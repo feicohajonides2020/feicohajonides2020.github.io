@@ -7,8 +7,6 @@ header:
     text: light
 ---
 
-## Portret boetseren
-
 Vrijdag  15  en zaterdag  16 mei wordt er in Atelier Organisch Beeldhouwen aan zelf-portretten geboetseerd. Een onthullende reis langs menselijke vormen en het eigen zelfbeeld. Welk gebaar zit er achter jouw eigen oog? Welk gebaar herken je achter jouw neus of mond? Hoe kan je al deze gebaren tot een geheel samenvoegen?
 Een uitdaging deze dagen is om het verhaal achter de vormen van specifiek jouw eigen gezicht te ontmoeten. Een onthullende ervaring.
 
