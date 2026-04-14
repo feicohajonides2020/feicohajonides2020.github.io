@@ -14,7 +14,7 @@ formspree:
 Heeft u een vraag, een opmerking of wilt u zich voor een oriëntatiegesprek of cursus aanmelden dan kunt u contact opnemen met:
 
 Feico Hajonides,
-Windheuvelstraat 3,
+Windheuvelstraat 3A,
 6971 JV Brummen
 Holland
 
