@@ -6,21 +6,21 @@ header:
     align:
     text: light
 ---
-Op 7 en 8 november gaan we verder met de “Karma werkplaats”. Door middel van de beeldend kunst gaan we de wetten van Karma onderzoeken. Dit om zicht te krijgen in je eigen karmische opgaven. Ieder is welkom. Ook als je nog niet eerder met een eerdere karma-werkplaats hebt meegedaan.
-In deze tweedaagse bekijken we hoe karma in jouw huidige leven meespreekt. Bijvoorbeeld hoe kan je een bepaalde gebeurtenis die bepalend is voor je huidige leven in het licht zien van karma. We diverse beelden, zodat je meer en meer in deze gebeurtenissen een vrij wilsbesluit kan nemen.
 
-In de ochtend werken we kunstzinnig aan een bepaald thema. In de middag werk je dat wat je gevonden hebt in een eigen beeld uit.
+## Portret boetseren
 
+Vrijdag  15  en zaterdag  16 mei wordt er in Atelier Organisch Beeldhouwen aan zelf-portretten geboetseerd. Een onthullende reis langs menselijke vormen en het eigen zelfbeeld. Welk gebaar zit er achter jouw eigen oog? Welk gebaar herken je achter jouw neus of mond? Hoe kan je al deze gebaren tot een geheel samenvoegen?
+Een uitdaging deze dagen is om het verhaal achter de vormen van specifiek jouw eigen gezicht te ontmoeten. Een onthullende ervaring.
 
+s’Ochtends werken we aan onderdelen van het portret boetseren. Het boetseren van karakter en eigenschappen komen ook aan bod.
+s’Middags zetten we de ontdekkingen van de ochtend om in een eigen beeld van klei. Beide dagen wordt er aan dit beeld verder gewerkt, zodat uiteindelijk jouw ontdekkingen met betrekking tot jouw eigen gezicht zichtbaar worden.
 
-Met: Feico Hajonides
+Met: Feico Hajonides (beeldhouwer)
 
-Plaats: De Aardewerkplaats - Windheuvelstraat 3 - Brummen
+Plaats: Atelier Organische Beeldhouwkunst - Windheuvelstraat 3A - Brummen
 
-Tijd: 7 en 8 november van 9:00 tot 16:00 uur.
+Tijd: 15 en 16 mei van 9:30 tot 16:00 uur.
 
-Kosten: 250,- euro. (Dit is inclusief materiaal en lunch).
+Kosten: 250,- euro. (inclusief een eenvoudige lunch op beide dagen.)
 
-Aanmelden:
-Klik op "contact"
-boven of onder deze bladzijde in de navigatiebalk
+Voor aanmelding via mail klik [hier](contact.md)
