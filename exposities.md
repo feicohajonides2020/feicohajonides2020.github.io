@@ -10,29 +10,28 @@ header:
 
 
 
+19 en 20 September 2026
+## Kunstbeurs in Maastricht
 
-8 juni tot 29 juni 2025
-## Expositie in de Regenboogkerk
 
-In deze afsluitende expositie toont Feico enkele Hooglied beelden en nieuw werk waarin inspiratie voelbaar is. Zondag 8 juni om 11:30 uur vertelt hij over zijn werk. U bent van harte welkom!
+In de Europart Fait exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
 
  Openingstijden:
- zaterdag en zondag van 11:00 uur tot 17:00 uur
+ zaterdag van 12:00 uur tot 18:00 uur
+ zondag van 11:00 tot 17:00 uur
 
 
  Adres:
- De Regenboogkerk
- Mauritslaan 12
- Oegstgeest
-
- ----------------------------
+ MECC hallen
+ Maarstricht
 
 
- 21 en 22 maart 2026
+
+ 20 en 21 maart 2026
 ## Kunstbeurs in Tilburg
 
 
- In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
+ In de Brabant Art Fair exposeert Feico nieuwe beelden. Dit keer met als thema "mens in ontmoeting". U bent van harte welkom!
 
   Openingstijden:
   zaterdag en zondag van 11:00 uur tot 17:00 uur
@@ -42,6 +41,9 @@ In deze afsluitende expositie toont Feico enkele Hooglied beelden en nieuw werk 
   De Koepelhallen
   NS-Plein
   Tilburg
+
+
+
 
 ----------------------------
 
