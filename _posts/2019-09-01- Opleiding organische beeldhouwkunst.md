@@ -10,7 +10,7 @@ header:
 
 
 
-Vrijdag 25 september 2026 start een nieuw Basisjaar Organische Beeldhouwkunst in atelier Organische Beeldhouwkunst (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
+Vrijdag 25 september 2026 start een nieuw Basis jaar Organische Beeldhouwkunst in atelier Organische Beeldhouwkunst (Brummen). Met Feico Hajonides als initiatiefnemer en docent.
 
 Dit is een basisjaar. Na dit jaar zou je kunnen besluiten om de opleiding te vervolgen. In dit basisjaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende beeldhouwkunst  te onderzoeken en verder te ontwikkelen.
 In de totale opleiding (waar het basisjaar dus een begin van is)   willen we een beeldhouwkunst onderzoeken die past in de huidige tijd. Een beeldhouwkunst waarin niet louter het zichtbare het uitgangspunt is, maar waarin ook het onzichtbare (de ziele- en geestelijke wereld) het motief is waar vanuit er gewerkt wordt. Kortom een beeldhouwkunst waarin het gaat om levende en waarachtige vormen waarin jouw verhaal zich uitspreken kan.
