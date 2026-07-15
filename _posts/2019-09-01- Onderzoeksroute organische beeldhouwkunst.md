@@ -16,6 +16,7 @@ Een verrassende route waarin je jouw kunstenaarschap tegenkomt en verder kan uit
 Data:    26 september; 24 oktober; 28 november; 19 december;          	23  januari 2027 ; 13 februari; 13  maart; 17 april; 15  mei:        	19 juni.
 
 Met:      Feico Hajonides - beeldhouwer
+
 Plaats:   Atelier Organische Beeldhouwkunst - Windheuvelstraat 3A - Brummen
 
 Tijd:     Tien zaterdagen van 9:00 uur tot 16:00 uur.
@@ -24,6 +25,7 @@ Kosten: 1350,-  euro (tien bijeenkomsten, inclusief basismateriaal)
 
 Aanmelden:
 Voor aanmelding of vragen klik boven deze bladzijde rechts in het menu:  "Contact"
+
 of mail naar: info@feicohajonides.nl of telf. 0630953313
 
 
